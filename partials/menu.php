@@ -13,6 +13,24 @@
 	<title>Fotografia</title>
 </head>
 <body>
+<nav class="navbar navbar-expand-lg">
+	<div class="container-fluid">
+		<a href="<?=$base?>"> <img src="<?=$base;?>/assents/img/logo.png"> </a>
+		<button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
 
-	<h1>teste</h1>
+    <div  id="navbarSupportedContent" class="menu d-flex">
+		<ul class="navbar-nav me-auto mb-2 mb-lg-0">
+			<li ><a href="<?=$base;?>" class ="home">home</a></li>
+			<li><a href="<?=$base;?>">O fotográfo</a></li>
+			<li><a href="<?=$base;?>">jobs e publicações</a></li>
+			<li><a href="<?=$base;?>">Contato</a></li>
+		</ul>
+	</div>
+
+	
+	</div>
+</nav>
+
 
