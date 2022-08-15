@@ -1,0 +1,38 @@
+footer{
+	background-color: #A9A9A9;
+	height:300px;
+	border-top: 5px solid #696969;
+	text-align: center;
+	justify-items: center;
+	justify-content: center;
+	
+}
+
+.footer{
+	background-color: #A9A9A9;
+	position: relative;
+	float: left;
+	display: block;
+	padding-left: 20px;
+	padding-top: 50px;
+	
+
+}
+
+.footer h3{
+	font-size: 15px;
+	font-weight: 700;
+}
+
+.footer h4{
+	font-size: 15px;
+	font-weight: 700;
+	color: white;
+}
+
+.footer p{
+	font-size: 15px;
+	
+	color: white;
+
+}

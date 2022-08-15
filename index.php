@@ -14,5 +14,8 @@
 	<p>Você poderá alterar o título, o menu, acrescentar posts e tudo mais próprio de um site. Se este é o modelo que você mais gostou, feche a página e clique no botão “quero este” para continuar a contratação.</p>
 
 	<a href="">CONHEÇA O TRABALHO</a>
-</div>
+</div><br><br><br><br><br><br>
 
+<?php 
+	require_once 'partials/footer.php';
+ ?>
