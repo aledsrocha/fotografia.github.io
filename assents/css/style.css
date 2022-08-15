@@ -1,0 +1,47 @@
+.principal{
+	color: white;
+	align-content: center;
+	text-align: center;
+	margin-left: 200px;
+	margin-right: 200px;
+
+
+}
+
+.principal h1{
+	font-weight: 700;
+	font-size: 90px;
+}
+
+.principal h2{
+	font-weight: 600;
+	font-size: 30px;
+}
+
+.principal h3{
+	font-weight: 600;
+	font-size: 20px;
+	
+}
+
+.principal p{
+	font-size: 15px;
+	padding-bottom: 40px;
+
+}
+
+
+.principal a{
+	text-decoration: none;
+	color: white;
+	background-color: #FF69B4;
+	border: none;
+	padding: 30px;
+
+}
+
+.principal a:hover{
+	background-color: #FF1493;
+	color: white;
+}
+
