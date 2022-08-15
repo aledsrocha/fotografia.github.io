@@ -2,10 +2,9 @@ footer{
 	background-color: #A9A9A9;
 	height:300px;
 	border-top: 5px solid #696969;
-	text-align: center;
-	justify-items: center;
-	justify-content: center;
+	text-align: left;
 	
+
 }
 
 .footer{
@@ -15,13 +14,18 @@ footer{
 	display: block;
 	padding-left: 20px;
 	padding-top: 50px;
+
 	
 
 }
+.footer h2{
+	font-size: 14px;
+	font-weight: 600;
+}
 
 .footer h3{
-	font-size: 15px;
-	font-weight: 700;
+	font-size: 18px;
+	font-weight: 500;
 }
 
 .footer h4{
@@ -31,8 +35,9 @@ footer{
 }
 
 .footer p{
-	font-size: 15px;
+	font-size: 13px;
 	
 	color: white;
+	padding-bottom: 50px;
 
 }
