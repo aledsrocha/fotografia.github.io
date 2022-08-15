@@ -4,7 +4,7 @@
 	
  ?>
 
-
+<link rel="stylesheet" type="text/css" href="<?=$base;?>/assents/css/style.css">
 <div class="principal">
 	<h1>SEJA BEM-VINDO</h1>
 	<h2>SÓ MAIS UM APAIXONADO POR FOTOGRAFIA</h2>
