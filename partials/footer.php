@@ -37,10 +37,16 @@ TODOS OS DIREITOS RESERVADOS
 </div>
 
 
-<div class="row col-sm-3 footer">
+<div class="row col-sm-3 footer ">
 	
 
 	<h3><b>PRESENÇA ON-LINE</b></h3>
+	<div>
+		<a class="rede" href="#"><img src="assents/img/facebook.png"></a>
+	<a class="rede" href="#"><img src="assents/img/twitter.png"></a>
+	<a class="rede" href="#"><img src="assents/img/instagram.png"></a>
+		
+	</div>
 	
 	
 
