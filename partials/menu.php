@@ -24,7 +24,7 @@
     <div  id="navbarSupportedContent" class="menu d-flex">
 		<ul class="navbar-nav me-auto mb-2 mb-lg-0">
 			<li ><a href="<?=$base;?>" class ="home">home</a></li>
-			<li><a href="<?=$base;?>">O fotográfo</a></li>
+			<li><a href="<?=$base;?>/o-fotografo.php">O fotográfo</a></li>
 			<li><a href="<?=$base;?>">jobs e publicações</a></li>
 			<li><a href="<?=$base;?>">Contato</a></li>
 		</ul>

@@ -1,7 +1,9 @@
+nav{
+	background-color: black;
+}
 
 
-
-menu li{
+.menu li{
 	list-style: none;
 
 }
