@@ -1,0 +1,36 @@
+.fotografo-info{
+margin-top: 55px;
+
+}
+
+.fotografo-info h3{
+	font-size: 20px;
+}
+
+.fotografo-info p{
+	font-size: 15px;
+}
+
+.fotografo-info h4{
+	margin-top: 20px;
+}
+
+
+
+.fotografo-info a{
+	margin-bottom: 30px;
+	text-decoration: none;
+	background-color: #FF69B4;
+	color: white;
+	padding: 12px;
+}
+
+.fotografo-info a:hover{
+	background-color: #C71585;
+}
+
+/*=========================== */
+
+.info-artita{
+	float: left;
+}
