@@ -118,7 +118,7 @@ Se este é o modelo que você mais gostou, feche a página e clique no botão �
  </div>
  			
  		</div>
- 		
+
 
  	</div>
 
@@ -165,7 +165,7 @@ Se este é o modelo que você mais gostou, feche a página e clique no botão �
  </div>
  		</div >
  		
- 	</div>
+ 	</div><br>
 
 
 
